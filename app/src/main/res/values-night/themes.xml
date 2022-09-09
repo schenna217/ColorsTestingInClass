@@ -13,20 +13,5 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
 
-        <color name="primaryColor">#b71c1c</color>
-
-        <color name="primaryLightColor">#f05545</color>
-
-        <color name="primaryDarkColor">#7f0000</color>
-
-        <color name="secondaryColor">#1565c0</color>
-
-        <color name="secondaryLightColor">#5e92f3</color>
-
-        <color name="secondaryDarkColor">#003c8f</color>
-
-        <color name="primaryTextColor">#ffffff</color>
-
-        <color name="secondaryTextColor">#ffffff</color>
     </style>
 </resources>
