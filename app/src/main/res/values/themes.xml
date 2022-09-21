@@ -14,5 +14,25 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="EditTextStyle" parent="android:Widget.EditText">
+        <item name="android:editTextBackground">@color/secondaryColor</item>
+        <item name="android:editTextColor">@color/primaryTextColor</item>
+        <item name="android:layout_width">@dimen/editTextHeight</item>
+        <item name="android:layout_height">@dimen/editTextWidth</item>
+    </style>
+
+    <style name="TextViewStyle" >
+        <item name="android:background">@color/primaryDarkColor</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:layout_width">@dimen/textViewWidth</item>
+        <item name="android:layout_height">@dimen/textViewHeight</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:background">@color/primaryColor</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:layout_width">@dimen/buttonWidth</item>
+        <item name="android:layout_height">@dimen/buttonHeight</item>
+    </style>
 
 </resources>
